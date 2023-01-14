@@ -1,7 +1,7 @@
 # Hello there 👨‍🔬
 
 I'm a student from Czechia who is passionate about math, statistics, and Data Science. This repo holds some of my work
-that showcases how I go around data analysis and coding in general.
+that showcases how I go around data analysis and coding in general. If you wish to seek more about me, feel free to visit my [website](https://laumi.me/).
 
 ## Data Analyst Associate certification 🐕‍
 
